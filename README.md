@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naman Srivastava</h1>
-<h3 align="center">Backend & Full-Stack Developer | CS Undergraduate from India</h3>
+<h3 align="center">Backend-Focused Full-Stack Developer building scalable APIs & real-time systems</h3>
 
-- 🔧 I build **scalable backend systems** and real-time applications  
-- 🌱 Currently deepening my understanding of **system design, databases, and backend architecture**
-- 🚀 Tech I work with: **Node.js, Express, MongoDB, REST APIs, WebSockets**
-- 💬 Ask me about **backend logic, APIs, Socket.io, authentication**
+- 🔧 I design and build **scalable backend systems** and **real-time applications** with a focus on performance and reliability  
+- 🧠 Currently deepening my understanding of **system design, database optimization, and distributed systems**  
+- 🚀 Tech stack: **Node.js, Express, MongoDB, TypeScript | REST APIs, WebSockets (Socket.io) | React, Next.js | AWS, Vercel**
+- ⚙️ Experienced in building **authentication systems, payment integrations, and real-time features**  
+- 💬 Ask me how I’d design your backend, debug your worst issue, or turn a messy idea into something that actually works
+- ⚡ Fun fact: I’ve lost track of time more than once while fixing something that “should’ve taken 5 minutes”
 - 📫 Reach me at **srinaman05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
